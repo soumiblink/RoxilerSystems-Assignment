@@ -80,26 +80,7 @@ JSON Web Tokens (JWT)
 
 Bcrypt
 
-📦 Folder Structure
-root/
-│
-├── backend/
-│   ├── prisma/
-│   ├── routes/
-│   ├── controllers/
-│   ├── middleware/
-│   ├── lib/
-│   ├── index.js
-│   └── package.json
-│
-└── frontend/
-    ├── src/
-    │   ├── pages/
-    │   ├── components/
-    │   ├── utils/
-    │   ├── App.jsx
-    │   └── main.jsx
-    └── package.json
+
 
 🛠 Installation & Setup (Local Machine)
 1️⃣ Clone the Project
